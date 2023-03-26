@@ -14,7 +14,7 @@
 
 ## Body 2 - Data Cleaning
 
-* Describe data cleaning process (3)
+* Describe data cleaning process (3) ✅
 
 ## Body 3 - Graph Description
 
